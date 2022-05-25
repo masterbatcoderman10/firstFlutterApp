@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+A new Flutter project. This app generates a list of random names as you scroll down, you can tap the name to add to suggestions and view them later.
 
 ## Getting Started
 
